@@ -34,7 +34,7 @@
   position: absolute;
   display: flex;
   justify-content: center;
-  /* margin-top: -2.5px; */
+  margin-top: -2.5px;
 }
 .seperator-blob div {
   width: 35px;
