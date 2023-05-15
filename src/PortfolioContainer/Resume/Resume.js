@@ -148,7 +148,7 @@ const Resume = (props) => {
       // subHeading: "Technologies Used: Flutter,graphql",
     },
     {
-      title: "Risk Management Dashboard ( Power BI , Sql Server )",
+      title: "Risk Management Dashboard ( Power Query M , Sql Server )",
       description:
         "Create a web dashboard using SQL Server data analysis to present risk information for prevention guidance to stakeholders",
       // subHeading: "Technologies Used: Flutter,graphql",
